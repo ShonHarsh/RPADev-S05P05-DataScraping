@@ -1,0 +1,8 @@
+05/06/2024 18:48:02 => [Debug] Debug started for file: Main
+05/06/2024 18:48:03 => [Info] RPADev-S05P05-DataScraping execution started
+05/06/2024 18:48:03 => [Info] RPADev-S05P05-DataScraping.Main.Begin;
+05/06/2024 18:48:11 => [Debug] Audit: Using Web App. Browser: Chrome URL: https://acme-test.uipath.com/login
+05/06/2024 18:48:20 => [Debug] Audit: Extract Data. From: <html app='chrome.exe' title='ACME System 1 - Log In' />
+05/06/2024 18:49:03 => [Info] RPADev-S05P05-DataScraping.Main.OperationCompleted; Scrape data written to: Data\Output\RPADev-S05P05-DataScraping.csv
+05/06/2024 18:49:03 => [Info] RPADev-S05P05-DataScraping.Main.End;
+05/06/2024 18:49:03 => [Info] RPADev-S05P05-DataScraping execution ended in: 00:01:00
